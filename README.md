@@ -1,4 +1,4 @@
 # HotelManagementApp
 
-In order to run the full applicaton:
-Run the main file in the folder
+# Run the Main File in the folder to experience the feature of the app
+
