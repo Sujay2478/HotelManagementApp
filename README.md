@@ -1,6 +1,6 @@
 # HotelManagementApp
 
-This Program is based on Hotel Management, made using 6 python files, 1 dat file and 1 txt file. I am not going to explain each function inside the file.
+1. This Program is based on Hotel Management, made using 6 python files, 1 dat file and 1 txt file. I am not going to explain each function inside the file.
 
 When you open the Task 2 folder, make sure to click the main.py folder since that file take you directly to the home page of the program, upon opening the program, you are presented with 5 different options Check In, Show Guest List, Check Out, Get Info of any Guest and Exit. 
 
